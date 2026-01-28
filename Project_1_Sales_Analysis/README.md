@@ -17,18 +17,6 @@ The objective of this project is to analyze sales data to understand overall per
 The dataset contains order-level sales data including Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, and Sales.
 
 ## Key Insights
-- Sales are concentrated in a few key categories and regions.
-- Certain sub-categories significantly outperform others in revenue.
-- Sales show noticeable seasonality across months.
-- The Consumer segment contributes the highest share of total sales.
-
-## Recommendations
-- Focus marketing efforts on top-performing categories and regions.
-- Analyze pricing and discount strategies for low-performing sub-categories.
-- Leverage seasonal trends to plan promotions and inventory.
-- Target high-value customer segments to maximize revenue growth.
-
-## Key Insights
 - **Top Category & Sub-Category:** Technology generates the highest sales among all categories, with Phones being the top-performing sub-category.  
 - **Highest Revenue Region:** The West region drives the most revenue overall.  
 - **Seasonal Trends:** Sales peak during September, November, and December, indicating strong seasonal demand.  
