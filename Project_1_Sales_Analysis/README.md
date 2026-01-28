@@ -31,7 +31,11 @@ The dataset contains order-level sales data including Order ID, Order Date, Ship
 ## Dashboard Screenshot
 Below is the Excel pivot dashboard summarizing sales performance:
 
-[Pivot Dashboard]([Pivot_Dashboard.png](https://github.com/DeborahIbrahim2103/Data-analyst-portfolio/blob/9d751030d37458bdbb1d3ec9233206a6316e179f/Pivot_Dashboard.png))
+## Dashboard Screenshot
+Below is the Excel pivot dashboard summarizing sales performance:
+
+![Pivot Dashboard](Pivot_Dashboard.png)
+
 
 
 
