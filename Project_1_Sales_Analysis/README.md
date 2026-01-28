@@ -36,6 +36,10 @@ Below is the Excel pivot dashboard summarizing sales performance:
 
 ![Pivot Dashboard](Pivot_Dashboard.png)
 
+## Dashboard Summary
+The dashboard provides a comprehensive view of sales performance, highlighting overall sales trends, top-performing categories and sub-categories, regional contributions, and customer segment impact. It shows that the Technology category drives the most revenue, with Phones as the top sub-category. The West region leads in total sales, and seasonal peaks occur in September, November, and December. The Consumer segment contributes the largest share of total sales. This dashboard enables quick identification of high-value categories, regions, and customer segments to support data-driven decisions.
+
+
 
 
 
