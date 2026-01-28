@@ -28,6 +28,10 @@ The dataset contains order-level sales data including Order ID, Order Date, Ship
 - Strengthen sales strategies in underperforming regions to balance revenue distribution.  
 - Target the Consumer segment with retention campaigns and personalized offers to sustain high sales.
 
+## Dashboard Screenshot
+Below is the Excel pivot dashboard summarizing sales performance:
+
+![Pivot Dashboard](Pivot_Dashboard.png)
 
 
 
